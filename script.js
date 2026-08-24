@@ -16,19 +16,19 @@
 
   // Sesi 1 — Long form (horizontal, 16:9)
   const longFormVideos = [
-    { id: "lf1", title: "Wedding Cinematic — Andi & Sarah", category: "wedding", youtubeId: "dQw4w9WgXcQ" },
-    { id: "lf2", title: "Konten YouTube — Vlog Traveling Bali", category: "youtube", youtubeId: "SwJb-e2E98o" },
-    { id: "lf3", title: "Video Clip — Promosi Produk Kopi", category: "clip", youtubeId: "GANTI_ID_3" },
-    { id: "lf4", title: "Wedding Highlight — Budi & Rina", category: "wedding", youtubeId: "GANTI_ID_4" },
+    { id: "lf1", title: "Video Duta BPJS-Lomba JKN", category: "clip", youtubeId: "mGcA_G3S6LE" },
+    { id: "lf2", title: "Video Tugas kuliah", category: "youtube", youtubeId: "hGdcu4sR-ik" },
+    { id: "lf3", title: "your pace, your path, your game ", category: "clip", youtubeId: "gU6rXUV-DrI" },
+    { id: "lf4", title: "Wedding Highlight — Budi & Rina", category: "wedding", youtubeId: "teskan" },
     { id: "lf5", title: "Konten YouTube — Review Gadget", category: "youtube", youtubeId: "GANTI_ID_5" },
     { id: "lf6", title: "Video Clip — Company Profile", category: "clip", youtubeId: "GANTI_ID_6" },
   ];
 
   // Sesi 2 — Short form (vertical, 9:16)
   const shortFormVideos = [
-    { id: "sf1", title: "Reel Wedding — Prosesi Adat", youtubeId: "SwJb-e2E98o" },
-    { id: "sf2", title: "Shorts — Behind The Scenes", youtubeId: "GANTI_ID_S2" },
-    { id: "sf3", title: "Reel Produk — 15 Detik", youtubeId: "GANTI_ID_S3" },
+    { id: "sf1", title: "Reel 100 Ketua Osis terbaik ISLC", youtubeId: "dT3CdZqu1l0" },
+    { id: "sf2", title: "Video calon duta GenRE 2026", youtubeId: "gZy_zQwxOLw" },
+    { id: "sf3", title: "Reel Edukasi Duta GenRe", youtubeId: "b_dzW3o9ZgI" },
     { id: "sf4", title: "Shorts — Tips Editing Cepat", youtubeId: "GANTI_ID_S4" },
     { id: "sf5", title: "Reel Event — Highlight Konser", youtubeId: "GANTI_ID_S5" },
   ];
