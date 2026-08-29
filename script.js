@@ -19,18 +19,12 @@
     { id: "lf1", title: "Video Duta BPJS-Lomba JKN", category: "clip", youtubeId: "mGcA_G3S6LE" },
     { id: "lf2", title: "Video Tugas kuliah", category: "youtube", youtubeId: "hGdcu4sR-ik" },
     { id: "lf3", title: "your pace, your path, your game ", category: "clip", youtubeId: "gU6rXUV-DrI" },
-    { id: "lf4", title: "Wedding Highlight — Budi & Rina", category: "wedding", youtubeId: "teskan" },
-    { id: "lf5", title: "Konten YouTube — Review Gadget", category: "youtube", youtubeId: "GANTI_ID_5" },
-    { id: "lf6", title: "Video Clip — Company Profile", category: "clip", youtubeId: "GANTI_ID_6" },
   ];
 
   // Sesi 2 — Short form (vertical, 9:16)
   const shortFormVideos = [
     { id: "sf1", title: "Reel 100 Ketua Osis terbaik ISLC", youtubeId: "dT3CdZqu1l0" },
-    { id: "sf2", title: "Video calon duta GenRE 2026", youtubeId: "gZy_zQwxOLw" },
     { id: "sf3", title: "Reel Edukasi Duta GenRe", youtubeId: "b_dzW3o9ZgI" },
-    { id: "sf4", title: "Shorts — Tips Editing Cepat", youtubeId: "GANTI_ID_S4" },
-    { id: "sf5", title: "Reel Event — Highlight Konser", youtubeId: "GANTI_ID_S5" },
   ];
 
   /* Catatan: label kategori (Wedding Edit/YouTube Video/Video Clip) sekarang
